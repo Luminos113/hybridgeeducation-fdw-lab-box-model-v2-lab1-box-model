@@ -7,3 +7,6 @@
     - El archivo index.html debe importar el archivo estilos.css
     - La clase del div debe ser "mi-div"
 2. Asegúrate de que los estilos se apliquen correctamente.
+
+
+
